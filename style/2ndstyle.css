@@ -57,3 +57,46 @@
 .input-amount input{
     border: none;
 }
+.Newsletter{
+    margin-top: 80px;
+    padding: 20px;
+    align-items: center;
+    /* justify-content: center; */
+    text-align: center;
+    width: 100%;
+    background-color: #C6E4D6;
+    border-radius: 24px;
+    
+}
+.input-button{
+    display: flex;
+    flex-direction: row;
+    gap: 0;
+    justify-content: center;
+    /* overflow: hidden; */
+
+
+}
+.taking-input{
+    /* width: 100%; */
+    width: 600px;
+    height: 55px;
+    background-color: #FFFFFF;
+    /* align-items: center; */
+    text-align: left;
+    border: none;
+}
+
+.subscribe{
+    /* width: 100%; */
+    width: 150px;
+    height: 55px;
+    background-color: #006A50;
+    text-align: center;
+    /* align-items: center; */
+    color: white;
+    font-weight: bold;
+    border: none;
+        
+}
+
