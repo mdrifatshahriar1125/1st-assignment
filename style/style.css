@@ -220,14 +220,14 @@ background: rgb(198, 228, 214);
     border-radius: 24px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     margin-bottom: 20px;
-    overflow: hidden;
+    
 
 
 }
 .card1-image{
     float: left;
     width: 408px;
-    height: 306px;
+    height: 265px;
     border-radius: 20px;
 
 }
