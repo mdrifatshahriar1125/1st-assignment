@@ -8,6 +8,7 @@
     font-size: 40px;
     font-weight: bold;
     text-align: center;
+    margin-top: 70px;
 }
 
 .donate{
@@ -41,12 +42,13 @@
 .input-amount{
     
       display: flex;
-      width: 80%;
+      width: 60%;
       height: 64px;
       align-items: center;
       justify-content: center;
       margin-bottom: 20px;
-      margin-left: 155px;
+      margin-left: 275px;
+
       border: 1px solid #ccc;
       border-radius: 5px;
       box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
