@@ -183,7 +183,6 @@ background: rgb(198, 228, 214);
     padding: 20px;
     background-color: #fff;
     border-radius: 24px;
-    /* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 
     position: relative;
@@ -255,3 +254,36 @@ background: rgb(198, 228, 214);
     color:black;
     font-weight: bold;
 }
+
+.recent-container2{
+    background-color: #fff;
+    border-radius: 24px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+  
+  
+.card2{
+    
+    display: flex; 
+
+}
+.card2-content {
+    width: 885px;
+   
+    padding: 5px;
+    
+  }
+  .card2-image{
+    float: right;
+    width: 408px;
+    height: 265px;
+    border-radius: 20px;
+    /* margin-left: 740px;  */
+
+}
+.card2-image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 24px;
+  }
